@@ -100,6 +100,7 @@ Bulk RNA-seq Data (HRA001684)
         ▼
   ZINC55760081 — recommended development candidate
 ```
+![j](https://github.com/abdulaziz-khaled/AI-Driven-RNA-seq-to-Drug-Discovery/blob/main/receptor-ZINC55760081%20interactions.png)
 
 **Disease:** Hashimoto's Thyroiditis (autoimmune hypothyroidism)  
 **Target:** IL-12B (p40 subunit of IL-12/IL-23)  
