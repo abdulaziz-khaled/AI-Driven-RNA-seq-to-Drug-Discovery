@@ -1,4 +1,4 @@
-# Decoding Hashimoto's Thyroiditis — AI-Driven RNA-seq to Drug Discovery
+# Decoding Hashimoto's Thyroiditis | AI-Driven RNA-seq to Drug Discovery
 
 > **End-to-end transcriptomic analysis of Hashimoto's Thyroiditis — from raw expression data to drug target identification and structure-based virtual screening — conducted entirely by Biomni, the AI research agent on the Phylo platform.**
 
