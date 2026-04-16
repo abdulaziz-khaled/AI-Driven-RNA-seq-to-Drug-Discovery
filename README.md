@@ -54,7 +54,7 @@
 
 **[Pauling.ai](https://pauling.ai)** is an AI-powered drug discovery platform specializing in structure-based virtual screening and computational chemistry. The platform integrates AI-driven compound library curation, automated receptor preparation, docking box definition, high-throughput molecular docking, and multi-criteria compound ranking into a seamless end-to-end workflow.
 
-**Pauling.ai's role in this project:** Stage 4 — full virtual screening pipeline against a curated library of 10,000 drug-like compounds targeting the IL-12B epitope pocket. This included receptor preparation (PDBQT generation, Fab chain handling), docking box definition, high-throughput AutoDock Vina docking across all 10,000 compounds, and delivery of the top-10 ranked candidates with docked poses.
+**Pauling.ai's role in this project:** Stage 4 — full virtual screening pipeline against a curated library of 10,000 drug-like compounds targeting the IL-12B epitope pocket. This included receptor preparation (PDBQT generation, Fab chain handling), docking box definition, high-throughput DiffDock docking across all 10,000 compounds, and delivery of the top-10 ranked candidates with docked poses.
 
 ---
 
@@ -460,7 +460,7 @@ nextflow run main.nf -profile slurm -params-file params.yaml
 | ggrepel | 0.9.x | Label collision avoidance | Phylo |
 | MSigDB | v2023.2 | Hallmark, KEGG Legacy, GO:BP | Phylo |
 | AutoDock Vina | 1.2.5 | Molecular docking (re-validation) | Phylo |
-| AutoDock Vina | — | Molecular docking (primary screen) | Pauling.ai |
+| DiffDock | DiffDock-L | Molecular docking (primary screen) | Pauling.ai |
 | RDKit | latest | Cheminformatics | Phylo |
 | OpenBabel | latest | PDBQT → SMILES conversion | Phylo |
 | DeepPurpose | latest | ADMET prediction (MPNN) | Phylo |
