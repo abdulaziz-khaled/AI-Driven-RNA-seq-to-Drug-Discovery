@@ -2,7 +2,7 @@
 
 > **End-to-end computational drug discovery pipeline for Hashimoto's Thyroiditis: bulk RNA-seq differential expression analysis and drug target prioritization by Biomni (Phylo), followed by structure-based virtual screening of a 10,000-compound library by Pauling.ai, with independent pose validation, ADMET prediction, and binding energy analysis by Biomni (Phylo).**
 
-![h](https://github.com/abdulaziz-khaled/AI-Driven-RNA-seq-to-Drug-Discovery/blob/main/my_high_res_complex.png)
+<img src="https://github.com/abdulaziz-khaled/AI-Driven-RNA-seq-to-Drug-Discovery/blob/main/my_high_res_complex.png" width="800"/>
 
 ---
 
