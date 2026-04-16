@@ -32,6 +32,8 @@
 
 ### Phylo & Biomni
 
+![h](https://github.com/abdulaziz-khaled/AI-Driven-RNA-seq-to-Drug-Discovery/blob/main/IMG_4906.png)
+
 **[Phylo](https://phylo.bio)** is an AI-native biomedical research platform designed to accelerate scientific discovery by deploying autonomous AI agents across the full drug discovery and genomics pipeline. Rather than providing static tools, Phylo orchestrates intelligent agents that reason, plan, execute multi-step analyses, and critically interpret results — functioning as a collaborative scientific partner rather than a passive software suite.
 
 **Biomni** is Phylo's flagship AI research agent. Built on state-of-the-art large language models and equipped with a comprehensive suite of bioinformatics tools, databases, and computational chemistry capabilities, Biomni can:
