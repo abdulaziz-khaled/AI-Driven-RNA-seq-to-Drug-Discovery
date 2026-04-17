@@ -1,4 +1,4 @@
-# 🧬 Decoding Hashimoto's Thyroiditis | AI Agent–Based Pipeline from RNA-seq to Drug Discovery (Phylo × Pauling.ai)
+# 🧬 Decoding Hashimoto's Thyroiditis | From RNA-seq Analysis to Drug Discovery via AI Agents (Phylo × Pauling.ai)
 
 > **End-to-end computational drug discovery pipeline for Hashimoto's Thyroiditis: bulk RNA-seq differential expression analysis and drug target prioritization by Biomni (Phylo), followed by structure-based virtual screening of a 10,000-compound library by Pauling.ai, with independent pose validation, ADMET prediction, and binding energy analysis by Biomni (Phylo).**
 
